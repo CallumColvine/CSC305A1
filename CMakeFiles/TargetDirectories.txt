@@ -1,0 +1,3 @@
+C:/Users/Clami/University/CSC 305/Workspace/CMakeFiles/ImageDemo.dir
+C:/Users/Clami/University/CSC 305/Workspace/CMakeFiles/ALL_BUILD.dir
+C:/Users/Clami/University/CSC 305/Workspace/CMakeFiles/ZERO_CHECK.dir

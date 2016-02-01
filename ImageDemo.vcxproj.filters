@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Clami\University\CSC 305\ImageKit\ImageKit_305\Image\Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Clami\University\CSC 305\ImageKit\ImageKit_305\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Clami\University\CSC 305\ImageKit\ImageKit_305\GLFW\include\glew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Clami\University\CSC 305\ImageKit\ImageKit_305\GLFW\include\glfw3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Clami\University\CSC 305\ImageKit\ImageKit_305\GLFW\include\glfw3native.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Clami\University\CSC 305\ImageKit\ImageKit_305\GLFW\include\glfw_config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Clami\University\CSC 305\ImageKit\ImageKit_305\GLFW\include\glxew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Clami\University\CSC 305\ImageKit\ImageKit_305\GLFW\include\wglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Clami\University\CSC 305\ImageKit\ImageKit_305\Image\Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Clami\University\CSC 305\ImageKit\ImageKit_305\libpng\include\png.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Clami\University\CSC 305\ImageKit\ImageKit_305\libpng\include\pngconf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Clami\University\CSC 305\ImageKit\ImageKit_305\libpng\include\pnglibconf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Clami\University\CSC 305\ImageKit\ImageKit_305\libpng\include\zconf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Clami\University\CSC 305\ImageKit\ImageKit_305\libpng\include\zlib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImageKit\ImageKit_305\Plane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImageKit\ImageKit_305\Ray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImageKit\ImageKit_305\Sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImageKit\ImageKit_305\Object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Clami\University\CSC 305\ImageKit\ImageKit_305\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8189865F-B3B5-33FE-9765-D4E1857482AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1C65A27A-6F8F-3237-BA3A-8AA6472252FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
